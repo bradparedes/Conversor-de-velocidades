@@ -18,7 +18,7 @@ Este proyecto implementa un conversor de velocidades en C#. Permite convertir en
 1. Clonar el repositorio:
   ```bash
   git clone
-https://github.com/bradparedes/Conversordevelocidades.sln
+https://github.com/bradparedes/Conversor-de-velocidades.sln
 ```
 2. Abre el proyecto en Visual Studio 2022.
 
