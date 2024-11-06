@@ -15,10 +15,16 @@ Este proyecto implementa un conversor de velocidades en C#. Permite convertir en
 **Lenguaje:** C#
 **Framework:** .Net Framework
 ## Ejecución
-1.Clonar el repositorio:
+1. Clonar el repositorio:
   ```bash
   git clone
 https://github.com/bradparedes/Conversordevelocidades.sln
+```
+2. Abre el proyecto en Visual Studio 2022.
+
+3. Restaura los paquetes NuGet:
+```bash
+  dotnet restore
 ```
 ## Estructura del Proyecto
 ConversorVelocidades.cs: Implementa la lógica para convertir entre diferentes unidades de velocidad.
