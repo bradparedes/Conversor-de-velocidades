@@ -35,8 +35,14 @@ Program.cs: Contiene el punto de entrada de la aplicación y ejemplos de uso del
 Durante este proyecto aprendí la importancia de las funcionalidades de la estructura do while junto a mas opciones como switch e ímplementar objetos con sus respectivas funciones para convertír, repetir y retornar respuestas por default a los tipos de datos incorrectos que se introduzcan en las opciones sugeridas, tambien mejoré mi capacidad de logica en la ejecución de programas y las opciones ejemplares para realizar con ello operaciones funcionales a la necesidad solicitada con su debida lógica de conversión de tipos de datos y cífras en sus operaciones.
 
 ## Instalación 
-1. Clona este repositorio: ```bash git clone https://github.com/bradparedes/Conversor-de-velocidades.git
-
+1. Clona este repositorio:
+   ```bash git clone
+    https://github.com/bradparedes/Conversor-de-velocidades.git
+3. Abre el proyecto en Visual Studio 2022.
+4. Restaura los paquetes NuGet:
+  ```bash
+  dotnet restore
+  ```
 ## Autor
 **Bradley Presley Castañeda Paredes**
 [GitHub] (https://github.com/bradparedes)
